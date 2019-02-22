@@ -10,7 +10,7 @@ port: 4100
 # dc: Data Carpentry
 # lc: Library Carpentry
 # cp: Carpentries (to use for instructor traning for instance)
-carpentry: "sp"
+carpentry: "si"
 
 # Overall title for pages.
 title: "SIH Introduction to Machine Learning in R"
