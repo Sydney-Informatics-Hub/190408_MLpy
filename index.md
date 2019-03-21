@@ -134,7 +134,7 @@ eventbrite: "59202106093"         # optional: alphanumeric key for Eventbrite re
   {% else %}
   SIH's
   {% endif %}
-  <a href="{{site.swc_site}}/conduct.html">Code of Conduct</a>.
+  <a href="{{site.sih_site}}/conduct.html">Code of Conduct</a>.
 </p>
 
 {% comment %}
@@ -315,8 +315,8 @@ eventbrite: "59202106093"         # optional: alphanumeric key for Eventbrite re
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
+  A list of common issues that occur during installation as a reference for instructors
+  that may be useful on this
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
