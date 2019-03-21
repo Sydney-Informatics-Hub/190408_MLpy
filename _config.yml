@@ -13,7 +13,7 @@ port: 4100
 carpentry: "si"
 
 # Overall title for pages.
-title: "SIH Introduction to Machine Learning in python"
+title: "SIH Introduction to Machine Learning in Python"
 series_name: "Data Science Training"
 
 # What kind of thing is this ("workshop" or "lesson" or "series")?
